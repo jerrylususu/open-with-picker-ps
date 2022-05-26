@@ -6,8 +6,6 @@
 
 类似应用：[sonnyp/Junction: Application/browser chooser (github.com)](https://github.com/sonnyp/Junction)
 
-- https://stackoverflow.com/questions/48280464/how-can-i-associate-a-file-type-with-a-powershell-script)
-
 效果：
 
 ![screenshots.gif](screenshots.gif)
